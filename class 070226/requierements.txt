@@ -1,0 +1,12 @@
+El programa debe tener un listado de estudiantes con un codigo y nombre del estudiante para imprimirlo o buscar imprimirlo.
+Se podrá guardar la asistencia de un estudiante identificandolo con el codigo y asignando la fecha de asistencia
+se debe generar una lista de los estudiantes y las asistencias sobre el total de dias de clase git branch -M main
+
+ej
+1011 JUANITO ALIMAÑA Asistió a un total de "" de 3 sesiones
+
+Se debe poder buscar un estudiante por codigo y se podrá visualizar las fechas de asistencias.
+
+1011 JUANITO ALIMAÑA
+
+2/2/2026 asistió
